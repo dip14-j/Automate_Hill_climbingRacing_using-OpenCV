@@ -13,3 +13,6 @@ step 2--> when we close our palm of hand the Break Button of game  "Hill climb r
 In my college a task is assigned to me that create a project in field of software and i have gave the idea of open-cv bracuse it is engaging field i think lot of things 
 like Draw in air, calculation, face recognisation but that maker's carnival is exhibition type of event so i have and idea and do explore about open cv project suddenly game autmation clicked in my mind and i made this .
 
+# Screeshots
+ ![Screenshot 2022-12-24 194157](https://user-images.githubusercontent.com/73305491/209544225-5449a7b6-77eb-4535-a100-fdcd665d0a16.jpg)
+![Screenshot 2022-12-24 194337](https://user-images.githubusercontent.com/73305491/209544271-03896f4e-23d4-412c-a2e7-01f3d1b5f68e.jpg)
